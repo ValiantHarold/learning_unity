@@ -20,12 +20,12 @@ C#
 
 # Useful Websites
 
--  [Web Site Name](https://www.youtube.com/watch?v=ILfUuBLfzGI)
--  [Web Site Name](https://www.youtube.com/watch?v=a9AUXNFBWt4)
--  [Web Site Name](https://www.youtube.com/watch?v=bqtqltqcQhw)
--  [Web Site Name](https://www.youtube.com/watch?v=mjKINQigAE4)
--  [Web Site Name](https://www.youtube.com/watch?v=RQ_peeoXTLo)
--  [Web Site Name](https://www.youtube.com/watch?v=tr-LNeXsAGU)
+-  [Getting Started with ECS in Unity 2019](https://www.youtube.com/watch?v=ILfUuBLfzGI)
+-  [Getting started with DOTS: Scripting Pong (Tutorial)](https://www.youtube.com/watch?v=a9AUXNFBWt4)
+-  [Coding Adventure: Boids](https://www.youtube.com/watch?v=bqtqltqcQhw)
+-  [Flocking Algorithm in Unity, Part 1: Introduction](https://www.youtube.com/watch?v=mjKINQigAE4)
+-  [Simple Flocking Simulation - Boids - Unity ECS/DOTS](https://www.youtube.com/watch?v=RQ_peeoXTLo)
+-  [Basic Flocking Optimization - Android Build - 20000 Boids - Unity ECS/DOTS](https://www.youtube.com/watch?v=tr-LNeXsAGU)
 
 # Future Work
 
